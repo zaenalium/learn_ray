@@ -1,0 +1,9 @@
+logs
+my_feature_repo
+airflow.cfg
+airflow.db
+webserver_config.py
+.ipynb_checkpoints
+__pycache__
+.env
+*.zip
